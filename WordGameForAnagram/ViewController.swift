@@ -90,7 +90,7 @@ class ViewController: UITableViewController {
         
     }
     
-    //weather the possibility of word entered is there
+    //whether the possibility of word entered is there
     
     func isPossible(word: String) -> Bool {
         
